@@ -19,6 +19,6 @@
   "homepage": "https://github.com/Diwakarsharma2216/json-mock-server#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "json-server": "^0.17.3"
+    "json-server": "^0.17.0"
   }
 }
